@@ -213,7 +213,7 @@ section .title::after{
   margin-left: 0px;
   position: absolute;
   top: 35px;
-  right: 400px;
+  right: 300px;
   max-width: 20px;
   height: auto;
   cursor: pointer;
